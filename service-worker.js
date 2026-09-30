@@ -1,7 +1,7 @@
 // PER - Parañaque Emergency Ready
 // Service Worker v3.0 - Network-first for HTML, cache-first for static assets
 
-const CACHE_NAME = 'per-v3.0';
+const CACHE_NAME = 'per-v3.1';
 
 // All assets to cache on install
 const ASSETS = [
@@ -16,7 +16,17 @@ const ASSETS = [
   './icons/icon-152.png',
   './icons/icon-192.png',
   './icons/icon-384.png',
-  './icons/icon-512.png'
+  './icons/icon-512.png',
+  './img/splash-bg.webp',
+  './img/splash-logo.webp',
+  './img/header-logo.webp',
+  './img/about-logo.webp',
+  './img/bfp.webp',
+  './img/pnp.webp',
+  './img/hems.webp',
+  './img/drrmo.webp',
+  './img/eoc.webp',
+  './img/barangay.webp'
 ];
 
 // INSTALL - cache everything immediately, activate right away (don't wait for old tabs to close)
