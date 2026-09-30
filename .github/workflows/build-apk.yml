@@ -44,15 +44,7 @@ jobs:
       - name: Install Capacitor
         run: npm ci
 
-      - name: App icon
-        continue-on-error: true
-        run: |
-          mkdir -p resources
-          if [ ! -f resources/icon-only.png ] && [ -f www/icons/icon-512.png ]; then cp www/icons/icon-512.png resources/icon-only.png; fi
-          if [ -f resources/icon-only.png ]; then
-            npx --yes @capacitor/assets@3 generate --android --iconBackgroundColor '#0a0a1a' --iconBackgroundColorDark '#0a0a1a'
-          fi
-
+      # App icon + splash are the PER shield, stored in android/app/src/main/res (no auto-generation).
       - name: Copy web app into Android project
         run: npx cap sync android
 
