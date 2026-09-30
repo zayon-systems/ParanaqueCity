@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">PER Parañaque</string>
+    <string name="title_activity_main">PER Parañaque</string>
+    <string name="package_name">com.zayonsystems.perparanaque</string>
+    <string name="custom_url_scheme">com.zayonsystems.perparanaque</string>
+</resources>

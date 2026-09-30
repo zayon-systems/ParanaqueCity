@@ -1,0 +1,232 @@
+{
+  "_readme": "Official Parañaque hotline list. Edit numbers here and push to GitHub — every installed app picks it up the next time it opens online. No APK rebuild needed. Update lastVerified (YYYY-MM-DD) every time you confirm the numbers by phone. Numbers are in calling order. Add ,LOCAL to dial an extension (e.g. 0288207783,123). Barangay numbers go under 'barangays' using the exact barangay name from the app (first number is dialed first).",
+  "lastVerified": "",
+  "fallback": [
+    [
+      "Parañaque EOC · (02) 8820-7783",
+      "0288207783"
+    ],
+    [
+      "National Emergency · 911",
+      "911"
+    ]
+  ],
+  "contacts": {
+    "bfp": {
+      "numbers": [
+        [
+          "BFP Parañaque · (02) 8826-9131",
+          "0288269131"
+        ],
+        [
+          "BFP Parañaque · (02) 8426-0219",
+          "0284260219"
+        ],
+        [
+          "BFP Parañaque · (02) 8426-0246",
+          "0284260246"
+        ]
+      ]
+    },
+    "pnp": {
+      "numbers": [
+        [
+          "PNP Parañaque · (02) 8286-2877",
+          "0282862877"
+        ]
+      ]
+    },
+    "hems": {
+      "numbers": [
+        [
+          "HEMS · (02) 8826-7464",
+          "0288267464"
+        ],
+        [
+          "HEMS mobile · 0929-877-7779",
+          "09298777779"
+        ],
+        [
+          "HEMS mobile · 0952-488-4476",
+          "09524884476"
+        ]
+      ]
+    },
+    "drrmo": {
+      "numbers": [
+        [
+          "DRRMO · (02) 8788-0503",
+          "0287880503"
+        ]
+      ]
+    },
+    "eoc": {
+      "numbers": [
+        [
+          "EOC · (02) 8820-7783",
+          "0288207783"
+        ],
+        [
+          "EOC mobile · 0916-096-6249",
+          "09160966249"
+        ],
+        [
+          "EOC mobile · 0956-394-0176",
+          "09563940176"
+        ]
+      ]
+    }
+  },
+  "otherLines": [],
+  "barangays": {
+    "Baclaran": [
+      [
+        "Brgy. Baclaran · (02) 8854-0960",
+        "0288540960"
+      ],
+      [
+        "Brgy. Baclaran · (02) 8851-0272",
+        "0288510272"
+      ]
+    ],
+    "Don Galo": [
+      [
+        "Brgy. Don Galo · (02) 8852-9869",
+        "0288529869"
+      ],
+      [
+        "Brgy. Don Galo · (02) 8851-0200",
+        "0288510200"
+      ]
+    ],
+    "La Huerta": [
+      [
+        "Brgy. La Huerta · (02) 8829-6152",
+        "0288296152"
+      ],
+      [
+        "Brgy. La Huerta · (02) 8825-6048",
+        "0288256048"
+      ]
+    ],
+    "San Dionisio": [
+      [
+        "Brgy. San Dionisio · (02) 5385-8756",
+        "0253858756"
+      ]
+    ],
+    "San Isidro": [
+      [
+        "Brgy. San Isidro · (02) 8788-0356",
+        "0287880356"
+      ],
+      [
+        "Brgy. San Isidro · (02) 8788-0530",
+        "0287880530"
+      ]
+    ],
+    "Santo Niño": [
+      [
+        "Brgy. Santo Niño · (02) 8852-0128",
+        "0288520128"
+      ]
+    ],
+    "Tambo": [
+      [
+        "Brgy. Tambo · (02) 8852-8712",
+        "0288528712"
+      ],
+      [
+        "Brgy. Tambo · (02) 8853-2065",
+        "0288532065"
+      ]
+    ],
+    "Vitalez": [
+      [
+        "Brgy. Vitalez · (02) 8851-0078",
+        "0288510078"
+      ]
+    ],
+    "BF Homes": [
+      [
+        "Brgy. BF Homes · (02) 8809-8843",
+        "0288098843"
+      ]
+    ],
+    "Don Bosco": [
+      [
+        "Brgy. Don Bosco · (02) 8822-3278",
+        "0288223278"
+      ],
+      [
+        "Brgy. Don Bosco · (02) 8799-4673",
+        "0287994673"
+      ]
+    ],
+    "Marcelo Green": [
+      [
+        "Brgy. Marcelo Green · (02) 8823-9429",
+        "0288239429"
+      ]
+    ],
+    "Merville": [
+      [
+        "Brgy. Merville · 0956-204-3002",
+        "09562043002"
+      ],
+      [
+        "Brgy. Merville · (02) 8824-3567",
+        "0288243567"
+      ]
+    ],
+    "Moonwalk": [
+      [
+        "Brgy. Moonwalk · (02) 8822-4815",
+        "0288224815"
+      ],
+      [
+        "Brgy. Moonwalk · (02) 8822-6583",
+        "0288226583"
+      ],
+      [
+        "Brgy. Moonwalk · (02) 8821-2408",
+        "0288212408"
+      ]
+    ],
+    "San Antonio": [
+      [
+        "Brgy. San Antonio · (02) 8467-1004",
+        "0284671004"
+      ],
+      [
+        "Brgy. San Antonio · (02) 8935-3071",
+        "0289353071"
+      ],
+      [
+        "Brgy. San Antonio · (02) 8935-3091",
+        "0289353091"
+      ]
+    ],
+    "San Martin de Porres": [
+      [
+        "Brgy. San Martin de Porres · (02) 8821-0037",
+        "0288210037"
+      ],
+      [
+        "Brgy. San Martin de Porres · (02) 8545-2814",
+        "0285452814"
+      ],
+      [
+        "Brgy. San Martin de Porres · (02) 8545-2906",
+        "0285452906"
+      ]
+    ],
+    "Sun Valley": [
+      [
+        "Brgy. Sun Valley · (02) 8821-2810",
+        "0288212810"
+      ]
+    ]
+  },
+  "_sources": "Barangay numbers compiled Sept 2026 from published directories (several are from 2021 or older) — NOT yet confirmed by phone. Replace or reorder as you verify."
+}

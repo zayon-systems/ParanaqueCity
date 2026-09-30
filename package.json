@@ -1,0 +1,16 @@
+{
+  "name": "paranaque-city",
+  "version": "3.0.0",
+  "private": true,
+  "description": "PER Para\u00f1aque \u2014 web app + Android APK (Capacitor)",
+  "scripts": {
+    "sync": "cap sync android"
+  },
+  "dependencies": {
+    "@capacitor/android": "8.5.2",
+    "@capacitor/core": "8.5.2"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "8.5.2"
+  }
+}
